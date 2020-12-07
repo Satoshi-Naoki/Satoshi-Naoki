@@ -1,5 +1,5 @@
-## Hi there 👋
-## Thanks for your interests in my GitHub
+<a href="https://www.linkedin.com/in/satoshi-naoki"><h1 align="center">Hi there 👋</h1></a>
+<h3 align="center">Thanks for your interests in my GitHub</h3>
 
 <!--
 **Satoshi-Naoki/Satoshi-Naoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
