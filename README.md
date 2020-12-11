@@ -10,4 +10,4 @@ background in web and mobile app development will be of great
 benefit to your project's successful implementation.
 </h4>
 
-![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=satoshi-naoki.satoshi-naoki.readme.md)
+<!-- ![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=satoshi-naoki.satoshi-naoki.readme.md) -->
