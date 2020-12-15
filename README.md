@@ -3,7 +3,7 @@
 
 <h4 align="center">
 This is a highly efficient and reliable professional who specializes in
-Smart Contracts, DeFi, and connecting UI to the blockchain with 7
+Smart Contracts, DeFi, and connecting UI to the blockchain with 4
 years of experience.<br>
 My expertise as a highly-skilled full-stack developer with an extensive
 background in web and mobile app development will be of great
