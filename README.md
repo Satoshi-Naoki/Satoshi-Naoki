@@ -17,7 +17,7 @@ benefit to your project's successful implementation.
 <a href="https://github.com/Satoshi-Naoki/">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:SenWebDev1009@gmail.com">
+<a href="mailto:SenWebDev1009@gmail.com?subject=We%20are%20looking%20for%20a%20developer">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://join.skype.com/invite/nGj7xrgSqpN1">
