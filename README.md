@@ -23,7 +23,7 @@ benefit to your project's successful implementation.
 <a href="https://join.skype.com/invite/nGj7xrgSqpN1">
   <img align="left" alt=" Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
-<a href="t.me/satoshinaoki">
+<a href="https://t.me/satoshinaoki">
   <img align="left" alt=" Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
